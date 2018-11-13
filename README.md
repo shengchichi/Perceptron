@@ -1,4 +1,4 @@
 # Perceptron
-Neural Network Project1
+##Neural Network Project1
 
-Implement a perceptron using java GUI.
+    Implement a perceptron using java GUI.
